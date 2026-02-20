@@ -7,6 +7,6 @@ It predicts one of four categories for a news article: **World, Sports, Business
 
 ## Live Demo
 
-Try the app directly in your browser (no installation required):  
+Try the app directly in your browser:  
 
 [Hugging Face Space: News Category Prediction](https://huggingface.co/spaces/javokhirumar/news-category-prediction)
